@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c122a13e.css",
-    "main.js": "/Portfolio/static/js/main.ec98f393.js",
+    "main.js": "/Portfolio/static/js/main.570e57d0.js",
     "static/media/elegawatch.png": "/Portfolio/static/media/elegawatch.2038f28cff5817eaf40f.png",
     "static/media/taskmanager.png": "/Portfolio/static/media/taskmanager.d580f925793a9b86d12b.png",
-    "static/media/CV.pdf": "/Portfolio/static/media/CV.0d644b66e282421eba25.pdf",
+    "static/media/codescreen.png": "/Portfolio/static/media/codescreen.3b6db4065141b73da568.png",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.4842353af0ddd16f1f9d.pdf",
     "static/media/ProPic.jpg": "/Portfolio/static/media/ProPic.56b6af886e023f6115f5.jpg",
-    "static/media/codescreen.avif": "/Portfolio/static/media/codescreen.9c81c88a5ab25e3b4caa.avif",
     "index.html": "/Portfolio/index.html",
     "main.c122a13e.css.map": "/Portfolio/static/css/main.c122a13e.css.map",
-    "main.ec98f393.js.map": "/Portfolio/static/js/main.ec98f393.js.map"
+    "main.570e57d0.js.map": "/Portfolio/static/js/main.570e57d0.js.map"
   },
   "entrypoints": [
     "static/css/main.c122a13e.css",
-    "static/js/main.ec98f393.js"
+    "static/js/main.570e57d0.js"
   ]
 }
